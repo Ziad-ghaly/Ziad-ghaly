@@ -1,9 +1,4 @@
-## Hi there 👋
-
-<!--
-**Ziad-ghaly/Ziad-ghaly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here # 💫 About Me:
+# 💫 About Me:
 I'm currently working on: Building JIDAR (AI-Powered WAF)<br><br>I'm currently learning: Advanced Cloud Architectures & SecOps<br><br>Ask me about: Cloud Engineering (Go, Rust, Python), AI, and Multimedia Production<br><br>How to reach me: ziadghaly03@gmail.com
 
 
@@ -20,14 +15,4 @@ I'm currently working on: Building JIDAR (AI-Powered WAF)<br><br>I'm currently l
 ---
 [![](https://komarev.com/ghpvc/?username=Ziad-ghaly&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
