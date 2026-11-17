@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Modern Slice Cyber Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&height=260&text=ZIAD%20GHALY&fontSize=70&color=0:0D1117,50:00B4D8,100:0077B6&fontColor=ffffff&fontAlignY=40&desc=AI%20Engineer%20%E2%80%A2%20Computer%20Vision%20%E2%80%A2%20Flutter%20Developer&descAlignY=62&descAlign=50&descSize=19"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&height=260&text=ZIAD%20GHALY&fontSize=70&color=0:0D1117,50:00B4D8,100:0077B6&fontColor=ffffff&fontAlignY=40&desc=AI%20Engineer%20%E2%80%A2%20Cloud%20Architect%20%E2%80%A2%20DevOps&descAlignY=62&descAlign=50&descSize=19"/>
 
 <!-- Cyan & Teal Typing Effect -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=1000&color=00F2FE&background=0D111700&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=130&lines=%3E_AI+Engineer+%26+Computer+Vision+Developer;%3E_Transforming+Pixels+into+Intelligence;%3E_Building+Cross-Platform+Mobile+Apps+with+Flutter;%3E_Writing+Clean+Algorithms+in+C%2B%2B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=1000&color=00F2FE&background=0D111700&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=130&lines=%3E_AI+Engineer+%26+Cloud%2FDevOps+Specialist;%3E_Architecting+Scalable+Cloud+Pipelines;%3E_Deploying+Intelligent+AI+Systems+to+Production;%3E_Automating+Infrastructure+with+Modern+DevOps" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -34,43 +34,44 @@
 
 ---
 
-<!-- Terminal Bio Section -->
+<!-- Terminal Bio Section (الصورة هنا مضمونة ومستضافة على GitHub) -->
 <table width="100%">
 <tr>
 <td width="60%" valign="top">
 
 ```bash
-ziad@workstation:~$ cat engineer_profile.json
+ziad@cloud-station:~$ cat engineer_profile.json
 {
   "name": "Ziad Ghaly",
-  "title": "AI Engineer & Software Developer",
-  "core_focus": [
-    "Computer Vision & Deep Learning",
-    "Cross-Platform Mobile Apps (Flutter)",
-    "Algorithm Optimization & C++"
+  "title": "AI Engineer & Cloud/DevOps Practitioner",
+  "domains": [
+    "Artificial Intelligence & Machine Learning",
+    "Cloud Infrastructure & Virtualization",
+    "CI/CD, Automation & DevOps Systems"
   ],
   "location": "Egypt 🇪🇬",
-  "philosophy": "Solving real-world problems through intelligent systems"
+  "philosophy": "Bridging intelligent algorithms with reliable cloud infrastructure"
 }
 
-ziad@workstation:~$ ./current_mission.sh
->> [✓] Developing AI-driven perception models (HandSense & CNNs)
->> [✓] Crafting intuitive mobile UI/UX with Flutter & Dart
->> [✓] Advancing problem solving & data structures in C++
+ziad@cloud-station:~$ ./current_mission.sh
+>> [✓] Deploying resilient AI workloads to the Cloud
+>> [✓] Automating pipelines & managing containers (Docker / Linux)
+>> [✓] Continuous integration, system monitoring & security
 ```
 
 </td>
 <td width="40%" valign="middle" align="center">
 
-<img src="https://media.giphy.com/media/unQ3IJU2RG7DO/giphy.gif" width="85%" style="border-radius: 12px;"/>
+<!-- صورة تقنية مستقرة ومضمونة 100% -->
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="90%" style="border-radius: 12px;"/>
 
 <br/><br/>
 
-### 🎯 **QUICK HIGHLIGHTS**
-- 🧠 **AI Focus:** Computer Vision & CNN Architectures
-- 📱 **Mobile:** Flutter & Dart Application Development
-- ⚡ **Core:** C++ Problem Solving & OOP
-- ☕ Powered by curiosity and continuous learning
+### 🎯 **CORE CAPABILITIES**
+- 🧠 **AI & ML:** Model deployment & pipeline integration
+- ☁️ **Cloud:** Scalable design & infrastructure
+- 🛠️ **DevOps:** CI/CD automation, Docker & Linux
+- ⚡ Focused on production reliability & scalability
 
 </td>
 </tr>
@@ -81,7 +82,7 @@ ziad@workstation:~$ ./current_mission.sh
 <!-- Live GitHub Stats Section -->
 <div align="center">
 
-### 📊 **GITHUB METRICS**
+### 📊 **GITHUB ACTIVITY**
 
 <br/>
 
@@ -106,35 +107,29 @@ ziad@workstation:~$ ./current_mission.sh
 
 ---
 
-<!-- Tech Stack -->
+<!-- Tech Stack (AI + Cloud + DevOps) -->
 <div align="center">
 
 ### 🛠️ **TECH ARSENAL**
 
 <br/>
 
-<!-- Modern Skill Icons -->
-<img src="https://skillicons.dev/icons?i=python,cpp,dart,flutter,tensorflow,opencv,git,github,vscode&perline=9&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,cpp,docker,linux,git,github,bash,postgres,vscode&perline=9&theme=dark" />
 
 <br/><br/>
 
 <p>
-  <!-- Languages -->
+  <!-- Cloud & DevOps -->
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CI%2FCD-Pipelines-00B4D8?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <br/>
+  <!-- AI & Programming -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-  <br/>
-  <!-- AI & Computer Vision -->
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MediaPipe-00A499?style=for-the-badge&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <br/>
-  <!-- Mobile & Tools -->
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
 
 </div>
@@ -143,7 +138,7 @@ ziad@workstation:~$ ./current_mission.sh
 
 ---
 
-<!-- Featured Projects (Your Actual Repositories) -->
+<!-- Featured Projects Placeholder (جاهز للتعديل فور إرسال الـ CV) -->
 <div align="center">
 
 ### 🚀 **FEATURED PROJECTS**
@@ -154,47 +149,23 @@ ziad@workstation:~$ ./current_mission.sh
 <tr>
 <td width="50%" valign="top">
 
-### 🖐️ **HandSense Project** &nbsp; `🤖 Computer Vision`
-> Real-time Sign Language recognition and gesture interpreter powered by computer vision.
+### 🛡️ **JIDAR - AI-Powered WAF** &nbsp; `🔒 AI & Cloud Security`
+> Intelligent Web Application Firewall utilizing AI models to detect and block malicious traffic in real-time.
 
-* **Tech:** `Python` • `OpenCV` • `MediaPipe`
-* **Key Highlights:** Real-time 21-hand landmark detection, gesture stability scoring, and live visual feedback.
-* 🔗 [**View Repository**](https://github.com/Ziad-ghaly/HandSense-project)
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🐱🐶 **CNN Cats vs Dogs** &nbsp; `🧠 Deep Learning`
-> Convolutional Neural Network (CNN) model built for binary image classification.
-
-* **Tech:** `Python` • `TensorFlow / Keras` • `Jupyter Notebook`
-* **Key Highlights:** Feature extraction with Conv2D/MaxPooling layers, data augmentation, and high validation accuracy.
-* 🔗 [**View Repository**](https://github.com/Ziad-ghaly/CNN_cats_vs_dogs)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🛍️ **Shopping App** &nbsp; `📱 Mobile App`
-> Cross-platform E-Commerce mobile application built with modern Flutter architecture.
-
-* **Tech:** `Flutter` • `Dart`
-* **Key Highlights:** Authentication flows, state management, private state management, responsive UI & smooth navigation.
-* 🔗 [**View Repository**](https://github.com/Ziad-ghaly/Shopping-App)
+* **Tech:** `Python` • `Machine Learning` • `Docker` • `Security`
+* **Key Highlights:** Real-time threat detection, anomaly classification, containerized microservice deployment.
+* 🔗 [**View Repository**](https://github.com/Ziad-ghaly)
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🎬 **Movie Library & C++ Games** &nbsp; `⚡ Core Software`
-> Software logic and algorithmic projects demonstrating Object-Oriented Programming (OOP) in C++.
+### ☁️ **Cloud & DevOps Automation Pipeline** &nbsp; `🚀 Infrastructure`
+> Automated CI/CD workflow and container deployment pipeline with monitoring.
 
-* **Tech:** `C++` • `OOP` • `Algorithms`
-* **Key Highlights:** Memory management, class hierarchies, and interactive console-based systems.
-* 🔗 [**Movie Library**](https://github.com/Ziad-ghaly/movie-library) | [**Dice Game**](https://github.com/Ziad-ghaly/dice-game-)
+* **Tech:** `Docker` • `Linux` • `Bash` • `GitHub Actions`
+* **Key Highlights:** Automated builds, linting & testing, multi-stage image packaging, high availability setup.
+* 🔗 [**View Repository**](https://github.com/Ziad-ghaly)
 
 </td>
 </tr>
@@ -207,7 +178,7 @@ ziad@workstation:~$ ./current_mission.sh
 
 ### 🤝 **GET IN TOUCH**
 
-I am always open to discussing **AI/ML projects**, **Computer Vision research**, or **Mobile App development**!
+Open for discussions around **AI engineering**, **Cloud architecture**, and **DevOps opportunities**!
 
 <br/>
 
@@ -217,11 +188,10 @@ I am always open to discussing **AI/ML projects**, **Computer Vision research**,
 
 <br/><br/>
 
-<sub>Crafted with passion by <b>Ziad Ghaly</b> • AI Engineer</sub>
+<sub>Crafted with passion by <b>Ziad Ghaly</b> • AI & Cloud/DevOps Engineer</sub>
 
 <br/><br/>
 
-<!-- Sleek Curved Wave Footer -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=90&section=footer&color=0:0D1117,100:0077B6"/>
 
 </div>
