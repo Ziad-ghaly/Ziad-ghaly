@@ -1,18 +1,199 @@
-# 💫 About Me:
-I'm currently working on: Building JIDAR (AI-Powered WAF)<br><br>I'm currently learning: Advanced Cloud Architectures & SecOps<br><br>Ask me about: Cloud Engineering (Go, Rust, Python), AI, and Multimedia Production<br><br>How to reach me: ziadghaly03@gmail.com
+<div align="center">
 
+<!-- Modern Slice Gradient Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&height=260&text=YOUR%20NAME&fontSize=70&color=0:0D1117,50:00B4D8,100:0077B6&fontColor=ffffff&fontAlignY=40&desc=Software%20Engineer%20%E2%80%A2%20Full-Stack%20%E2%80%A2%20Problem%20Solver&descAlignY=62&descAlign=50&descSize=19"/>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Ziad Ghaly) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ziad_ghaly) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ziadghaly) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@ziadghaly) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Ziad Ghaly) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ziadghaly03@gmail.com) 
+<!-- Cyan & Teal Typing SVG -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=1000&color=00F2FE&background=0D111700&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=130&lines=%3E_Architecting+modern+scalable+software;%3E_Writing+clean%2C+maintainable+code;%3E_Always+learning%2C+building%2C+and+shipping" alt="Typing SVG" />
+</a>
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Square Enix](https://img.shields.io/badge/SquareEnix-%23ED1C24.svg?style=for-the-badge&logo=SquareEnix&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Ziad-ghaly&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Ziad-ghaly&theme=codeSTACKr&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ziad-ghaly&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br/>
+
+<!-- Modern Rounded Badges -->
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="mailto:your_email@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://twitter.com/YOUR_TWITTER">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+</p>
+
+<!-- Live Visitors Badge -->
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE%20VIEWS&color=00b4d8&style=flat-square&abbreviated=true" alt="Profile Views"/>
+
+</div>
+
+<br/>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Ziad-ghaly&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Terminal Bio Section -->
+<table width="100%">
+<tr>
+<td width="60%" valign="top">
+
+```bash
+⚡ whoami --verbose
+
+user@portfolio:~$ cat developer_profile.json
+{
+  "name": "YOUR_NAME",
+  "title": "Software Engineer",
+  "focus": ["Full-Stack Development", "System Architecture", "Algorithms"],
+  "location": "Cairo, Egypt 🇪🇬",
+  "traits": [
+    "Clean code advocate",
+    "Continuous learner",
+    "Open-source enthusiast"
+  ],
+  "current_status": "Building scalable side projects & exploring new tech"
+}
+
+user@portfolio:~$ ./show_passions.sh
+>> [✓] Transforming ideas into clean software
+>> [✓] Optimizing performance & database queries
+>> [✓] Solving algorithmic puzzles
+```
+
+</td>
+<td width="40%" valign="middle" align="center">
+
+<img src="https://media.giphy.com/media/unQ3IJU2RG7DO/giphy.gif" width="85%" style="border-radius: 12px;"/>
+
+<br/><br/>
+
+### 🎯 **FOCUS & GOALS**
+- 🔭 **Working on:** High-impact web solutions
+- 🌱 **Learning:** Cloud Architecture & DevOps
+- 💬 **Ask me about:** JavaScript, Python, Architecture
+- ⚡ **Fun fact:** Powered by black coffee and curiosity
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- Live GitHub Stats & Streaks Section -->
+<div align="center">
+
+### 📊 **ACTIVITY & METRICS**
+
+<br/>
+
+<table align="center" border="0">
+<tr>
+<td align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f2fe&icon_color=00b4d8&text_color=c9d1d9" height="175" alt="GitHub Stats" />
+</td>
+<td align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&stroke=00b4d8&ring=00f2fe&fire=00f2fe&currStreakLabel=00b4d8" height="175" alt="GitHub Streak" />
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f2fe&text_color=c9d1d9" height="140" alt="Top Languages" />
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<!-- Tech Stack -->
+<div align="center">
+
+### 🛠️ **TECH ARSENAL**
+
+<br/>
+
+<!-- Modern Skill Icons -->
+<img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,express,fastapi,postgres,mongodb,docker,git,linux,tailwind&perline=7&theme=dark" />
+
+<br/><br/>
+
+<!-- Category Tags -->
+<code>Languages</code> &nbsp; Python • JavaScript • TypeScript • SQL • C++  
+<br/>
+<code>Frameworks</code> &nbsp; React • Next.js • Node.js • FastAPI • Express  
+<br/>
+<code>Databases & Tools</code> &nbsp; PostgreSQL • MongoDB • Docker • Git • Linux • Redis  
+
+</div>
+
+<br/>
+
+---
+
+<!-- Featured Projects (Bento Cards) -->
+<div align="center">
+
+### 🚀 **FEATURED PROJECTS**
+
+</div>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 **Project Alpha** &nbsp; `🟢 Production`
+> A high-performance web platform built for seamless user experiences and fast responses.
+
+* **Tech:** `Next.js` • `TypeScript` • `PostgreSQL` • `Tailwind`
+* **Key Features:** Server-Side Rendering, OAuth2 authentication, real-time sync.
+* 🔗 [**Live Demo**](https://your-demo-link.com) | [**Source Code**](https://github.com/YOUR_USERNAME/project-alpha)
+
+</td>
+
+<td width="50%" valign="top">
+
+### ⚡ **Project Beta** &nbsp; `🛠️ Active Dev`
+> Automated pipeline and RESTful API microservice designed for data processing.
+
+* **Tech:** `Python` • `FastAPI` • `Docker` • `Redis`
+* **Key Features:** Asynchronous queues, 99% test coverage, containerized.
+* 🔗 [**API Docs**](https://your-api-link.com) | [**Source Code**](https://github.com/YOUR_USERNAME/project-beta)
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- Connect & Footer -->
+<div align="center">
+
+### 🤝 **LET'S COLLABORATE**
+
+Whether you have a question, an open opportunity, or just want to say hi:  
+**my inbox is always open!**
+
+<br/>
+
+<a href="mailto:your_email@gmail.com">
+  <img src="https://img.shields.io/badge/Say_Hello-00B4D8?style=for-the-badge&logo=mailgun&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<sub>Crafted with passion by <b>YOUR_NAME</b> • Updated 2026</sub>
+
+<br/><br/>
+
+<!-- Sleek Curved Wave Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=90&section=footer&color=0:0D1117,100:0077B6"/>
+
+</div>
